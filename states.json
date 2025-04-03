@@ -19,12 +19,6 @@
 		"form_dt": "26 January 1950"
 	},
 	{
-		"abbr": "AS",
-		"name": "Assam",
-		"capital": "Dispur",
-		"form_dt": "26 January 1950"
-	},
-	{
 		"abbr": "BR",
 		"name": "Bihar",
 		"capital": "Patna",
@@ -61,16 +55,10 @@
 		"form_dt": "25th January 1971"
 	},
 	{
-		"abbr": "AS",
+		"abbr": "JH",
 		"name": "Jharkhand",
 		"capital": "Ranchi",
 		"form_dt": "15th November 2000"
-	},
-	{
-		"abbr": "JH",
-		"name": "Assam",
-		"capital": "Dispur",
-		"form_dt": "26 January 1950"
 	},
 	{
 		"abbr": "KA",
