@@ -1,0 +1,185 @@
+[
+	{
+		"abbr": "AP",
+		"name": "Andhra Pradesh",
+		"capital": "Amravati",
+		"form_dt":"1st November 1956"
+	},
+	{
+		"abbr": "AR",
+		"name": "Arunchal Pradesh",
+		"capital": "Itanagar",
+		"form_dt":"20 February 1987"
+		
+	},
+	{
+		"abbr": "AS",
+		"name": "Assam",
+		"capital": "Dispur",
+		"form_dt": "26 January 1950"
+	},
+	{
+		"abbr": "AS",
+		"name": "Assam",
+		"capital": "Dispur",
+		"form_dt": "26 January 1950"
+	},
+	{
+		"abbr": "BR",
+		"name": "Bihar",
+		"capital": "Patna",
+		"form_dt": "22nd March 1912"
+	},
+	{
+		"abbr": "CG",
+		"name": "Chhatishgarh",
+		"capital": "Raipur",
+		"form_dt": "1st November 2000"
+	},
+	{
+		"abbr": "GA",
+		"name": "Goa",
+		"capital": "Panaji",
+		"form_dt": "30 May 1987"
+	},
+	{
+		"abbr": "GJ",
+		"name": "Gujarat",
+		"capital": "Gandhinagar",
+		"form_dt": "1st May 1960"
+	},
+	{
+		"abbr": "HR",
+		"name": "Haryana",
+		"capital": "Chandigarh",
+		"form_dt": "1st November 1966"
+	},
+	{
+		"abbr": "HP",
+		"name": "Himanchal Pradesh",
+		"capital": "Shimla",
+		"form_dt": "25th January 1971"
+	},
+	{
+		"abbr": "AS",
+		"name": "Jharkhand",
+		"capital": "Ranchi",
+		"form_dt": "15th November 2000"
+	},
+	{
+		"abbr": "JH",
+		"name": "Assam",
+		"capital": "Dispur",
+		"form_dt": "26 January 1950"
+	},
+	{
+		"abbr": "KA",
+		"name": "Karnataka",
+		"capital": "Bengaluru",
+		"form_dt": "1st November 1956"
+	},
+	{
+		"abbr": "KL",
+		"name": "Kerala",
+		"capital": "Thiruvananthapuram",
+		"form_dt": "1st November 1956"
+	},
+	{
+		"abbr": "MP",
+		"name": "Madhya Pradesh",
+		"capital": "Bhopal",
+		"form_dt": "1st November 1956"
+	},
+	{
+		"abbr": "MH",
+		"name": "Maharashtra",
+		"capital": "Mumbai",
+		"form_dt": "1st May 1960"
+	},
+	{
+		"abbr": "MN",
+		"name": "Manipur",
+		"capital": "Imphal",
+		"form_dt": "21st January 1972"
+	},
+	{
+		"abbr": "ML",
+		"name": "Meghalaya",
+		"capital": "Shillong",
+		"form_dt": "1st April 1970"
+	},
+	{
+		"abbr": "MZ",
+		"name": "Mizoram",
+		"capital": "Aizawl",
+		"form_dt": "21st January 1972"
+	},
+	{
+		"abbr": "NL",
+		"name": "Nagaland",
+		"capital": "Kohima",
+		"form_dt": "30 November 1963"
+	},
+	{
+		"abbr": "OD",
+		"name": "Odisha",
+		"capital": "Bhubaneswar",
+		"form_dt": "1st April 1936"
+	},
+	{
+		"abbr": "PB",
+		"name": "Punjab",
+		"capital": "Chandigarh",
+		"form_dt": "1st November 1966"
+	},
+	{
+		"abbr": "RJ",
+		"name": "Rajasthan",
+		"capital": "Jaipur",
+		"form_dt": "30 March 1949"
+	},
+	{
+		"abbr": "SK",
+		"name": "Sikkim",
+		"capital": "Gangtok",
+		"form_dt": "16th May 1975"
+	},
+	{
+		"abbr": "TN",
+		"name": "Tamil Nadu",
+		"capital": "Chennai",
+		"form_dt": "1st November 1956"
+	},
+	{
+		"abbr": "TG",
+		"name": "Telangana",
+		"capital": "Hyderabad",
+		"form_dt": "2nd June 2014"
+	},
+	{
+		"abbr": "TR",
+		"name": "Tripura",
+		"capital": "Agratala",
+		"form_dt": "21st January 1972"
+	},
+	{
+		"abbr": "UK",
+		"name": "Uttarakhand",
+		"capital": "Dehradun",
+		"form_dt": "9th November 2000"
+	},
+	{
+		"abbr": "UP",
+		"name": "Uttar Pradesh",
+		"capital": "Lucknow",
+		"form_dt": "24th January 1950"
+	},
+	{
+		"abbr": "WB",
+		"name": "West Bengal",
+		"capital": "Kolkata",
+		"form_dt": "15th August 1947"
+	}
+
+	
+]
